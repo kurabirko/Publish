@@ -1,3 +1,7 @@
+## My fork of this project
+
+This repo uses my fork of [Ink](https://github.com/JohnSundell/Ink). Everything else is pretty much the same
+
 <p align="center">
     <img src="Logo.png" width="400" max-width="90%" alt="Publish" />
 </p>
@@ -12,6 +16,7 @@
         <img src="https://img.shields.io/badge/twitter-@johnsundell-blue.svg?style=flat" alt="Twitter: @johnsundell" />
     </a>
 </p>
+
 
 Welcome to **Publish**, a static site generator built specifically for Swift developers. It enables entire websites to be built using Swift, and supports themes, plugins and tons of other powerful customization options.
 
